@@ -1,0 +1,22 @@
+#calculator{
+    width:500px;
+    margin: auto;
+    border: solid black;
+}
+#display{
+    text-align: center;
+    background-color: greenyellow;
+}
+#buttons{
+    width:400px;
+    border: solid black;
+    margin: auto;
+}
+#numbers{
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-template-rows: repeat(3, 33%);
+}
+#operators{
+    display: grid;
+}
