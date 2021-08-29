@@ -41,3 +41,6 @@
 #clear{
     font-size: 20px;
 }
+#bottom{
+    display: grid;
+}
